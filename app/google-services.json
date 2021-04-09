@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "248403946220",
+    "project_id": "bookshelf-433d0",
+    "storage_bucket": "bookshelf-433d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248403946220:android:eb8c98f000f7729cfb93c9",
+        "android_client_info": {
+          "package_name": "com.zukka.bookshelf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248403946220-3odjvei1m3fs21699boit0fg9dp203kg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zukka.bookshelf",
+            "certificate_hash": "a44ea66d466bfb37c838f2ff40d0c270522090aa"
+          }
+        },
+        {
+          "client_id": "248403946220-8rfghoejp5doiqhnfn5nsvnj9hvmck01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_V-mnkknewmAmaLLgq8j2ZauGpLOD2u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248403946220-8rfghoejp5doiqhnfn5nsvnj9hvmck01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">bookshelf</string>
+    <string name="welcome_message">Welcome in Kotlin the bookshelf app</string>
+    <string name="login_btn">Login</string>
+    <string name="logout_btn">Logout</string>
+    <string name="login_prompt">Login to set customizations!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_new_book">Add new book</string>
+
+</resources>
